@@ -1,6 +1,3 @@
-'''
-pip install request beautifulsoup4 lxml
-'''
 
 import requests
 from bs4 import BeautifulSoup
